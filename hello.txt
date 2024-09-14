@@ -1,6 +1,1 @@
-
-
-
-
-Hello from minb
-수정후에 이거
+hi to minb
